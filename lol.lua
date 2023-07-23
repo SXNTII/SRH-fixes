@@ -1,4 +1,3 @@
-
 repeat game:isLoaded() until task.wait(1)
 print("made by sarah and fx8"); print("sarah is the hottest coder ever")  local Alphabet,old = loadstring(game:HttpGet("https://raw.githubusercontent.com/02Dcs/Chat/main/Symbols"))()
 old = hookmetamethod(game,"__namecall",function(self,...)
@@ -13,7 +12,7 @@ old = hookmetamethod(game,"__namecall",function(self,...)
         end
 
       local new = Message
-      Arguments[1] = "̌ 𐌜⬜⬜⬜⬜̌   𐌜⬜ 𐌜▰◻ 𐌖 𐌖￭▰𐌖𐌖  ॓॓॓▰𐌖𐌖  𐌜  𐌖￭▰𐌖𐌖   ̌ ̌𐌖 𐌜⬜𐌖 𐌜¡ 𐌜⬜𐌜⬜ 𐌖  𐌜⬜⬜⬜॓॓॓i 𐌜⬜⬜ ť" .. new
+      Arguments[1] = "̌ 𐌜⬜⬜⬜⬜̌   𐌜⬜ ◻ 𐌖 𐌖￭▰𐌖𐌖  ॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓॓𐌖𐌖    𐌖￭𐌖𐌖   ̌ ̌𐌖 𐌜⬜𐌖 ¡ 𐌜⬜𐌜⬜ 𐌖¡  𐌜⬜⬜⬜॓॓॓॓i 𐌜⬜⬜ ť" .. new
 
       return old(self, unpack(Arguments))
     end
