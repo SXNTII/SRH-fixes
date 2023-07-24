@@ -259,9 +259,9 @@ local UserInputService = game:GetService("UserInputService")
 local DevTools = loadstring(game:HttpGet("https://raw.githubusercontent.com/05-4/DevTools/main/index.lua"))()
 
 local Window = DevTools:Init({
-    Name = "Vadrifts",
-    Title = "Vadrifts",
-    Subtitle = "Bypasser",
+    Name = "Bypasser",
+    Title = "TliteBypasser",
+    Subtitle = "Tlite bypasser",
     LoadingBackgroundImage = "rbxassetid://13738082890",
     Options = {
         KillYourself = false,
@@ -317,11 +317,11 @@ for TabName, _ in next, VadBypasses do
 end
 
 Home:CreateSection("Credits")
-Home:CreateLabel("Owners\n\n  •   sx_ntii\n  •   Jay\n\nProgramming\n\n  •   Blukez\n  •   05_4\n  •   xula\n\nBypasses\n\n  •   sx_ntii\n  •   FX8BOT\n  •   heat\n\nUser Interface\n\n  •   05_4\n  •   Blukez")
+Home:CreateLabel("Owners\n\n  •   8mm")
 
 Home:CreateSection("Changelog")
-Home:CreateLabel("Update v2.7\n\n  •   Added new SRH module bypass for manual bypass\n  •   Improved manual bypass system\n  •   Blukez was here lol| me too! -sarah")
-Home:CreateLabel("Update v2.6\n\n  •   Updated layout\n  •   100+ new bypasses\n  •   Bug Fixes")
+Home:CreateLabel("d")
+Home:CreateLabel("d")
 
 Settings:CreateSection("Toggles")
 Settings:CreateToggle({
